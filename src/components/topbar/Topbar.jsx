@@ -14,9 +14,9 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     <a href = "mailto: patrickly72@gmail.com"><span>patrickly72@gmail.com</span></a>
                     <LinkedIn className="icon"/><a href="https://www.linkedin.com/in/patrick-ly-aa280717a/" rel="noreferrer" target="_blank"><span>LinkedIn</span></a>
                     <ListAlt className="icon"/>
-                    <a href = "https://pattymcpat.github.io/updated-portfolio/RESUME.pdf" rel="noreferrer" target="_blank"><span>Resume</span></a>
+                    <a href = "https://patrickvly.github.io/updated-portfolio/RESUME.pdf" rel="noreferrer" target="_blank"><span>Resume</span></a>
                     <GitHub className="icon"/>
-                    <a href = "https://www.github.com/pattymcpat" rel="noreferrer" target="_blank"><span>GitHub</span></a>
+                    <a href = "https://www.github.com/patrickvly" rel="noreferrer" target="_blank"><span>GitHub</span></a>
                     </div>
                 
                 </div>
