@@ -8,14 +8,14 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                 <div className="left">
                 <h1>Patrick Ly</h1>
                     <div className="itemContainer">
-                    <Person className="icon"/>
+                    <Person className="icon links"/>
                     <a href="tel:408-398-8404"><span>+1 408 398 8404</span></a>
-                    <Mail className="icon"/>
+                    <Mail className="icon links"/>
                     <a href = "mailto: patrickly72@gmail.com"><span>patrickly72@gmail.com</span></a>
-                    <LinkedIn className="icon"/><a href="https://www.linkedin.com/in/patrick-ly-aa280717a/" rel="noreferrer" target="_blank"><span>LinkedIn</span></a>
-                    <ListAlt className="icon"/>
-                    <a href = "https://patrickvly.github.io/updated-portfolio/RESUME.pdf" rel="noreferrer" target="_blank"><span>Resume</span></a>
-                    <GitHub className="icon"/>
+                    <LinkedIn className="icon links"/><a href="https://www.linkedin.com/in/patrick-ly-aa280717a/" rel="noreferrer" target="_blank"><span>LinkedIn</span></a>
+                    <ListAlt className="icon links"/>
+                    <a href = "https://patrickvly.github.io/resume.pdf" rel="noreferrer" target="_blank"><span>Resume</span></a>
+                    <GitHub className="icon links"/>
                     <a href = "https://www.github.com/patrickvly" rel="noreferrer" target="_blank"><span>GitHub</span></a>
                     </div>
                 

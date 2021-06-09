@@ -11,7 +11,9 @@ a {
 
 .hero {
     height: calc(100vh - 70px);
+	width: auto;
 }
+
 .wrapper{
     padding: 0px;
     display: flex;
@@ -243,3 +245,4 @@ a {
 		 bottom: 0px;
 	}
 }
+
