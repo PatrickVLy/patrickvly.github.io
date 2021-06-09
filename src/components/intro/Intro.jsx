@@ -1,6 +1,6 @@
 
 import "./intro.css"
-import hero from "./hero.jpg"
+import hero from "./hero2.jpg"
 
 export default function Intro() {
     return (
